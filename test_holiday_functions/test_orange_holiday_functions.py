@@ -17,7 +17,7 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Asante
-
+assert not home_for_the_holidays("Maqubela-Flinstone") #name is longer than 13 characters long
 
 
 # Carla
