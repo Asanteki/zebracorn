@@ -17,7 +17,7 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Asante
-
+assert in_the_holiday_spirit(0,0) # no tests or quizzes will result in being in the holiday spirit
 
 
 # Carla
